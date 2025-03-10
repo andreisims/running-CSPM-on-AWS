@@ -86,3 +86,18 @@ Compliance Reporting: Generate compliance reports for industry standards like CI
 - select TotalCloud from dropdown again to get to the dashboard
 
 ![Image](https://github.com/user-attachments/assets/2cce3359-1ec8-4ca0-b874-62c25dc5a12d)
+- select configure tab (on left-hand side)> check the AWS connector> Manage Connectors> select AWS connector and 'run connector' from the Actions drop-down, select yes
+
+![Image](https://github.com/user-attachments/assets/e5e450f1-8b01-4d59-8fa5-6a22df3dd2c4)
+- see the scan results> select the back arrow> TotalCloud> Posture
+
+![Image](https://github.com/user-attachments/assets/33c6c480-55b5-4333-8f20-b9bdad1ed54f)
+- 116 Controls evaluated  and 346 failures> select any failed Control Name and you will the steps for remediation
+
+![Image](https://github.com/user-attachments/assets/81bab2f9-7ad7-441d-a546-7db76e1c81ca)
+- example on how to create a false-positive exception> select a failed Control Name> check the Actions drop-down and select Create Exception
+
+![Image](https://github.com/user-attachments/assets/3a53d196-f674-43a3-85d4-6b7113619d22)
+- this allows you to perform remediations for the items needed and to create exceptions for any false positive results based on the organization's standards
+# Next steps
+- complete all the needed remediations and rerun the scan. I hope these steps were useful!
