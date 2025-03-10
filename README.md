@@ -55,3 +55,24 @@ Compliance Reporting: Generate compliance reports for industry standards like CI
 ![Image](https://github.com/user-attachments/assets/21760953-c938-4192-9771-3461ca22bb3f)
 
 ![Image](https://github.com/user-attachments/assets/9f891589-4e87-470d-b4a2-bf416a0b0d8c)
+
+# Create an AWS profile
+- log into your existing AWS account or create a <a href="https://aws.amazon.com/free/?gclid=Cj0KCQiAlbW-BhCMARIsADnwaspO8i986yG0D4XdFCOsR7gJqPp9MAmMN26Z8HKg3Kn4762WLOcp6T0aApCxEALw_wcB&trk=78b916d7-7c94-4cab-98d9-0ce5e648dd5f&sc_channel=ps&ef_id=Cj0KCQiAlbW-BhCMARIsADnwaspO8i986yG0D4XdFCOsR7gJqPp9MAmMN26Z8HKg3Kn4762WLOcp6T0aApCxEALw_wcB:G:s&s_kwcid=AL!4422!3!432339156165!e!!g!!aws%20free%20tier%20account!9572385111!102212379047&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">free tier</a> account
+
+![Image](https://github.com/user-attachments/assets/5cc88a93-4403-47b9-93d8-96d7aa02b2dd)
+# Connect Qualys TotalCloud to your AWS account
+- select 'Configure Connector Now'
+
+![Image](https://github.com/user-attachments/assets/bb384058-7a27-4466-b2f3-ebfc6e8e0d82)
+- select AWS
+
+![Image](https://github.com/user-attachments/assets/e0538a6f-1760-4c99-affc-c1502732a84c)
+- next, select 'Launch Stack'> accept the defaults and click'Create stack'
+
+![Image](https://github.com/user-attachments/assets/0bb2ace8-f8d4-4093-896a-4e1c5898c25e)
+
+![Image](https://github.com/user-attachments/assets/5944fc13-0570-4d23-bb0f-14d9e9c1b733)
+- we will need the Role ARN from AWS
+
+![Image](https://github.com/user-attachments/assets/1b85f10e-b964-4187-96d2-691338600f48)
+
