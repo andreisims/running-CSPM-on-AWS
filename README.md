@@ -92,7 +92,7 @@ Compliance Reporting: Generate compliance reports for industry standards like CI
 - see the scan results> select the back arrow> TotalCloud> Posture
 
 ![Image](https://github.com/user-attachments/assets/33c6c480-55b5-4333-8f20-b9bdad1ed54f)
-- 116 Controls evaluated  and 346 failures> select any failed Control Name and you will the steps for remediation
+- 116 Controls evaluated  and 346 failures> select any failed Control Name and you will see the steps for remediation
 
 ![Image](https://github.com/user-attachments/assets/81bab2f9-7ad7-441d-a546-7db76e1c81ca)
 - example on how to create a false-positive exception> select a failed Control Name> check the Actions drop-down and select Create Exception
