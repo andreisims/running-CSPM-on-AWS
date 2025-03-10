@@ -35,7 +35,7 @@ Compliance Reporting: Generate compliance reports for industry standards like CI
   - now back to Qualys and use the new email to complete the sign up form> use any dummy phone number
  
 ![Image](https://github.com/user-attachments/assets/08d06b5b-1732-4ded-a8ec-6682be70b554)
-- check your personal emai for the Qualys trial activation
+- check your personal email for the Qualys trial activation
 
 ![Image](https://github.com/user-attachments/assets/ab5323e1-6064-4202-a017-7af5296c04ee)
 - and the second email containing your username and OTP
