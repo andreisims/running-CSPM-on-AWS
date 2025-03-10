@@ -1,1 +1,1 @@
-# running-CSPM-on-AWS
+# running CSPM on AWS
