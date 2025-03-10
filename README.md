@@ -75,4 +75,14 @@ Compliance Reporting: Generate compliance reports for industry standards like CI
 - we will need the Role ARN from AWS
 
 ![Image](https://github.com/user-attachments/assets/1b85f10e-b964-4187-96d2-691338600f48)
+- search for the stack in IAM roles. select it and copy the role ARN
 
+![Image](https://github.com/user-attachments/assets/35d02417-f1ef-4ad0-99d6-ad5dc8083d93)
+
+![Image](https://github.com/user-attachments/assets/90a28ca8-84aa-4391-9e39-e8f47495e25c)
+- enter the Role ARN in Qualys and select next> test the connection
+
+![Image](https://github.com/user-attachments/assets/8123cd8a-b4bd-4dd2-94b4-ed65ce20a467)
+- select TotalCloud from dropdown again to get to the dashboard
+
+![Image](https://github.com/user-attachments/assets/2cce3359-1ec8-4ca0-b874-62c25dc5a12d)
